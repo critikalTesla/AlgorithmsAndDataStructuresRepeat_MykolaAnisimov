@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF2FCD42-E905-47BF-8C07-2EA0B675647A}|GameWorldGraph.vcxproj|C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF2FCD42-E905-47BF-8C07-2EA0B675647A}|GameWorldGraph.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF2FCD42-E905-47BF-8C07-2EA0B675647A}|GameWorldGraph.vcxproj|C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF2FCD42-E905-47BF-8C07-2EA0B675647A}|GameWorldGraph.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF2FCD42-E905-47BF-8C07-2EA0B675647A}|GameWorldGraph.vcxproj|C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BF2FCD42-E905-47BF-8C07-2EA0B675647A}|GameWorldGraph.vcxproj|solutionrelative:Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Graph.cpp",
               "ToolTip": "C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\Graph.cpp",
               "RelativeToolTip": "Graph.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-23T13:02:07.223Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Graph.h",
               "ToolTip": "C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\Graph.h",
               "RelativeToolTip": "Graph.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-08-23T13:00:25.968Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Critikal Land\\University\\C\u002B\u002B\\AlgorithmsAndDataStructuresRepeat_MykolaAnisimov\\GameWorldGraph\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-23T12:59:08.172Z",
               "EditorCaption": ""
